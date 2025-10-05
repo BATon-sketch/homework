@@ -1,0 +1,37 @@
+.some-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300px;
+    font-style: italic;
+}
+
+.some-text2 {
+    font-family: serif;
+    text-decoration: line-through 2px rgb(0, 0, 0);
+}
+
+.some-text3 {
+    font-family: serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.some-text4 {
+    font-family: serif;
+    text-decoration: wavy overline;
+    word-spacing: 30px;
+    text-shadow: 1px 1px 2px rebeccapurple;
+}
+
+.some-text5 {
+    font-family: serif;
+    text-decoration: underline double rgb(0, 0, 0);
+    letter-spacing: 5px;
+}
+
+.some-text6 {
+    font-family: serif;
+    white-space: nowrap;
+}
